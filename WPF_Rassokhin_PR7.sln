@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Rassokhin_PR7", "WPF_Rassokhin_PR7.csproj", "{BE6F1FA9-B30D-4FA0-A627-EFC59C57A3BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE6F1FA9-B30D-4FA0-A627-EFC59C57A3BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE6F1FA9-B30D-4FA0-A627-EFC59C57A3BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE6F1FA9-B30D-4FA0-A627-EFC59C57A3BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE6F1FA9-B30D-4FA0-A627-EFC59C57A3BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB32D679-5EC9-4539-9266-938F68897BEC}
+	EndGlobalSection
+EndGlobal
